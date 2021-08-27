@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Microphone Application</string>
-    <string name="play">PLAY</string>
-    <string name="record">RECORD</string>
-    <string name="stop">STOP</string>
+    <string name="play">Play</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="file_name">File Name</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="time">Time</string>
+    <string name="duration_format">%02d:%02d</string>
+    <string name="file_name_switch_text">Use Date and Time</string>
+    <string name="timer_switch_text">Use Timer</string>
 </resources>
